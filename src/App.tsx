@@ -13,7 +13,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <span>
-          <div>styled 6664</div>
+          <div>styled 432436664</div>
           <a
             className="App-link"
             href="https://reactjs.org/"
